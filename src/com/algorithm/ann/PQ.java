@@ -1,7 +1,7 @@
 package com.algorithm.ann;
 
 /**
- * A hash table to store half-edges.
+ * A hash table to store half-edges!
  */
 public class PQ {
 
