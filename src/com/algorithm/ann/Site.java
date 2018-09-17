@@ -1,7 +1,7 @@
 package com.algorithm.ann;
 
 /**
- * A site or vertex in the Voronoi diagram.
+ * A site or vertex in the Voronoi diagram!
  */
 public class Site extends Vertex implements Comparable<Site> {
 
